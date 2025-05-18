@@ -94,7 +94,7 @@ color: #434455;
 .main-section-third {
     background-color: #f4f4fd;
 }
-.h-team {
+.team {
     font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -127,12 +127,13 @@ color: #434455;
 .main-section-fourth {
 }
 .our-portfolio {
-    font-weight: 700;
+font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 
 }
 .portfolio-list {
@@ -140,7 +141,7 @@ color: #2e2f42;
 .portfolio-item {
     background: #fff;
 }
-.portfolio-h3 {
+.portfolio-h {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
